@@ -109,6 +109,7 @@ const CONFIG = {
       {
         name: 'Blog',
         link: 'https://jsantiago.hashnode.dev/',
+      }
       {
         name: 'Dribbble',
         link: 'https://dribbble.com',
