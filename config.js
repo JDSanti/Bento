@@ -49,9 +49,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'To Do',
+      icon: 'check',
+      link: 'https://to-do.live.com/tasks/today',
     },
     {
       id: '4',
@@ -61,9 +61,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Twitch',
+      icon: 'twitch',
+      link: 'https://www.twitch.tv/',
     },
     {
       id: '6',
@@ -78,27 +78,27 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'at-sign',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Reddit',
+        link: 'https://www.reddit.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Twitter',
+        link: 'https://twitter.com/home',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Washington Post',
+        link: 'https://www.washingtonpost.com/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Hacker News',
+        link: 'https://news.ycombinator.com/',
       },
     ],
     secondList: [
@@ -107,16 +107,16 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Portfolio',
+        link: 'https://josestgo.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Hashnode',
+        link: 'https://hashnode.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Azure',
+        link: 'https://portal.azure.com/#home',
       },
     ],
   },
